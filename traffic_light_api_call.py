@@ -1,6 +1,6 @@
 ### Traffic Light Annotation API Call ###
 # Rawlison Zhang
-# 16 May 2022
+# 15 May 2022
 
 ## Purpose:
 # Label images of traffic lights using Scale's Image Annotation annotation API endpoint
